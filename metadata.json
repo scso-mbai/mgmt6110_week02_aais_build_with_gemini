@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets Explorer",
+  "description": "Comprehensive market tracking, real-time quotes, indices, stocks, crypto, forex, and interactive technical charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
